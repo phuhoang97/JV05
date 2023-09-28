@@ -1,0 +1,24 @@
+{
+  "cars": [
+    {
+      "name": "string",
+      "price": "123123",
+      "id": 1
+    },
+    {
+      "name": "string123123",
+      "price": "123123",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Vinfast",
+      "price": 2500
+    },
+    {
+      "id": 4,
+      "name": "Honda",
+      "price": 2500
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amparo Strickland",
+      "age": 24,
+      "email": "amparostrickland@furnafix.com",
+      "phone": "+84 (812) 572-2630"
+    },
+    {
+      "id": 2,
+      "name": "Doris Montoya",
+      "age": 26,
+      "email": "dorismontoya@furnafix.com",
+      "phone": "+84 (953) 401-3591"
+    },
+    {
+      "id": 3,
+      "name": "Chen Chavez",
+      "age": 31,
+      "email": "chenchavez@furnafix.com",
+      "phone": "+84 (892) 548-2990"
+    },
+    {
+      "id": 4,
+      "name": "Savage Mckee",
+      "age": 38,
+      "email": "savagemckee@furnafix.com",
+      "phone": "+84 (808) 598-3089"
+    },
+    {
+      "id": 5,
+      "name": "Jacquelyn Leach",
+      "age": 20,
+      "email": "jacquelynleach@furnafix.com",
+      "phone": "+84 (852) 524-2373"
+    },
+    {
+      "id": 6,
+      "name": "Deidre Jarvis",
+      "age": 31,
+      "email": "deidrejarvis@furnafix.com",
+      "phone": "+84 (902) 554-2315"
+    },
+    {
+      "id": 7,
+      "name": "Woodard Conway",
+      "age": 25,
+      "email": "woodardconway@furnafix.com",
+      "phone": "+84 (929) 507-2074"
+    },
+    {
+      "id": 8,
+      "name": "Cherry Parks",
+      "age": 20,
+      "email": "cherryparks@furnafix.com",
+      "phone": "+84 (868) 475-3679"
+    },
+    {
+      "id": 9,
+      "name": "Lauri Vaughan",
+      "age": 20,
+      "email": "laurivaughan@furnafix.com",
+      "phone": "+84 (951) 469-2316"
+    },
+    {
+      "id": 10,
+      "name": "Velazquez Christian",
+      "age": 26,
+      "email": "velazquezchristian@furnafix.com",
+      "phone": "+84 (998) 423-3770"
+    },
+    {
+      "id": 11,
+      "name": "Bonner Noel",
+      "age": 34,
+      "email": "bonnernoel@furnafix.com",
+      "phone": "+84 (965) 517-3828"
+    },
+    {
+      "id": 12,
+      "name": "Della Stuart",
+      "age": 39,
+      "email": "dellastuart@furnafix.com",
+      "phone": "+84 (807) 554-3077"
+    },
+    {
+      "id": 13,
+      "name": "Brandie Barber",
+      "age": 28,
+      "email": "brandiebarber@furnafix.com",
+      "phone": "+84 (937) 487-3875"
+    },
+    {
+      "id": 14,
+      "name": "Ramirez Dillard",
+      "age": 34,
+      "email": "ramirezdillard@furnafix.com",
+      "phone": "+84 (970) 561-2134"
+    },
+    {
+      "id": 15,
+      "name": "Edwards Pate",
+      "age": 35,
+      "email": "edwardspate@furnafix.com",
+      "phone": "+84 (962) 564-2192"
+    },
+    {
+      "id": 16,
+      "name": "Addie Mooney",
+      "age": 39,
+      "email": "addiemooney@furnafix.com",
+      "phone": "+84 (987) 591-3460"
+    },
+    {
+      "id": 17,
+      "name": "Dixon Ferguson",
+      "age": 21,
+      "email": "dixonferguson@furnafix.com",
+      "phone": "+84 (866) 420-3418"
+    },
+    {
+      "id": 18,
+      "name": "Fuentes Wynn",
+      "age": 23,
+      "email": "fuenteswynn@furnafix.com",
+      "phone": "+84 (816) 427-2145"
+    },
+    {
+      "id": 19,
+      "name": "Rachelle Fox",
+      "age": 35,
+      "email": "rachellefox@furnafix.com",
+      "phone": "+84 (995) 555-3273"
+    },
+    {
+      "id": 20,
+      "name": "Clark Davenport",
+      "age": 21,
+      "email": "clarkdavenport@furnafix.com",
+      "phone": "+84 (979) 553-3910"
+    },
+    {
+      "id": 21,
+      "name": "Clark Davenport",
+      "age": 56,
+      "email": "clarkdavenport@furnafix.com",
+      "phone": "+84 (979) 553-3910"
+    }
+  ]
+}

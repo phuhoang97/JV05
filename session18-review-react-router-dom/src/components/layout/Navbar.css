@@ -1,0 +1,16 @@
+.nav {
+  display: flex;
+  min-height: 42px;
+  justify-content: space-between;
+  background-color: rgb(224, 217, 218);
+  /* height: 60px; */
+}
+
+li {
+  list-style: none;
+}
+
+.nav-item {
+  display: inline-block;
+  margin: auto 10px;
+}

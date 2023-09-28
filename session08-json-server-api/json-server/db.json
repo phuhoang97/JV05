@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vân Anh",
+      "age": 20,
+      "address": "HN",
+      "phone": "02313213254"
+    },
+    {
+      "id": 2,
+      "name": "Nam",
+      "age": 25,
+      "address": "HN",
+      "phone": "083278254"
+    },
+    {
+      "id": 3,
+      "name": "Hiếu",
+      "age": 21,
+      "address": "HCM",
+      "phone": "0832788954"
+    },
+    {
+      "id": 4,
+      "name": "Hoàng",
+      "age": 26,
+      "address": "DN",
+      "phone": "0837215454"
+    },
+    {
+      "name": "Dũng",
+      "age": 28,
+      "phone": "023778945",
+      "id": 5
+    },
+    {
+      "name": "Dũng",
+      "age": 30,
+      "address": "DN",
+      "phone": "023778945",
+      "id": 6
+    },
+    {
+      "name": "Quỳnh",
+      "age": 30,
+      "address": "HN",
+      "phone": "081234613",
+      "id": 8
+    },
+    {
+      "name": "Linh",
+      "age": 28,
+      "phone": "023123945",
+      "address": "DN",
+      "id": 9
+    },
+    {
+      "name": "Son",
+      "age": 28,
+      "address": "HN",
+      "phone": "086512813",
+      "id": 10
+    }
+  ]
+}
